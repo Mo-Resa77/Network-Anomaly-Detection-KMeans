@@ -17,3 +17,9 @@ An advanced, unsupervised machine learning framework and continuous behavioral a
 
 ##  Core Engineering Insight Exposed
 This deployment mathematically exposes the performance limitations of standard distance-based, isotropic Euclidean clustering models (like KMeans) when processing linear, non-spherical anomaly threads. It demonstrates how highly sparse outlier distributions can warp classical linear decision boundaries—proving the architectural necessity for density-based spatial alternatives (e.g., DBSCAN) within enterprise Intrusion Detection Systems (IDS).
+
+Video link =
+https://drive.google.com/drive/folders/1-Om2MQpr5XZNH6l-J41VjAhyZ8fTkheH?usp=drive_link
+
+
+ video of my work. Thanks.
